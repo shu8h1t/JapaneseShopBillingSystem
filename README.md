@@ -1,4 +1,6 @@
 # JapaneseShopBillingSystem
 A Billing Application made in Visual Studio with C++
 
-Open Project6.sln for starting the application
+Should have Visual Studio Installed.
+
+For installing this project, just run Project6.sln.
